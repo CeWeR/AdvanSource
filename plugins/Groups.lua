@@ -58,7 +58,7 @@ local function run(msg, matches)
  end
  
  if matches[1] == 'help' and msg.to.type == 'user' then
-		text = "Welcome to my bot!\n\nTo get a list of bot groups use /chats or /groups for list of chats.\n\n"
+		text = "Welcome to my bot!\n\n/help Send To Groups Not Message Private.\n\n"
      	return text
 end
 
@@ -67,8 +67,8 @@ return {
     description = "See link of a group and groups list",
     usage = "!link ID && !groups",
     advan = {
-    	"Created by: @janlou",
-    	"Powered by: @AdvanTM",
+    	"Created by: @MohamWmad",
+    	"Powered by: @MohamWmad",
     	"CopyRight all right reserved",
     },
 patterns = {
