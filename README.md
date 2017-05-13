@@ -62,7 +62,7 @@
 |:-----------------------|
 - <p align="left">Clone Source:
 ```sh
-git clone https://github.com/janlou/AdvanSource && cd AdvanSource
+git clone https://github.com/CeWeR/cwbot && cd cwbot
 ```
 - <p align="left">install bot:
 ```sh
